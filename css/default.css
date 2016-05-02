@@ -23,4 +23,9 @@ h3 a{
 ….
     text-align: center;
 }
+. greeting{
+    border-top: #6fbb9a 1px dotted;
+….
+    text-align: center;
+}
 
